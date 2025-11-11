@@ -9,7 +9,7 @@ A API permite listar, adicionar, atualizar e remover tarefas de uma lista em mem
 
 1. **Clone o repositório**:
 ```bash
-   git clone https://github.com/seu-usuario/api-todolist.git
+   git clone https://github.com/Gu1san/ToDo-List
 ```
 2. **Abra o projeto no Visual Studio 2022** (ou mais recente).
 
